@@ -10,9 +10,6 @@ An intelligent customer service chatbot for a video game retail store, powered b
 - Modern UI: Clean, gaming-themed interface built with Tailwind CSS
 - Fast Performance: Built on Next.js 14 with optimized API routes
 
-## Live Demo
-
-[View Live Demo](https://game-store-chatbot.vercel.app)
 
 ## Tech Stack
 
